@@ -182,4 +182,4 @@ if ( $wgWordmark ) {
 	];
 }
 $wgHCaptchaSiteKey = '33e28cca-4d96-44d2-9e5e-050282c8b2a2';
-$wgHCaptchaSecretKey = 'ES_91131ed3478e4439858275f7f7f96ca4';
+$wgHCaptchaSecretKey = ''; // redacted for security reasons
